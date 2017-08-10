@@ -1,0 +1,13 @@
+float _FoldScale;
+float _Threshold;
+float _InnerRad;
+float _IterCount;
+float _someParameter;
+float _MarchIter;
+float4 _Rotation;
+float4 _IFSShift;
+float fu;
+float fs;
+float _palette;
+float _StepRatio;
+float _scale;
